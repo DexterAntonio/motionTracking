@@ -4,6 +4,6 @@
 
 <b> Installation: </b> Download the linux folder, build the .cpp files with the make file. 
 To compile program type 
-make project
+<code>make project</code>
 to compile and run program type 
-make runFinal 
+<code>make runFinal</code>
